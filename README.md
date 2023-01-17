@@ -3,7 +3,7 @@
 ## Introduction
 
 ## Requirements ##
-To be able to run all scripts you need: 
+To be able to run all scripts you need:\\ 
 (1) Various RNA sequencing data from human, rat, mouse, and zebrafish.
 In these scripts these are located in "Data/RNA STAR/sub_folder"
 (2) A folder with 4 biomart gene info files (generated at https://www.ensembl.org/biomart/martview) containing Ensembl IDs and Gene Symbols.
