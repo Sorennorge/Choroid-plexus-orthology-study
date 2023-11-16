@@ -14,7 +14,7 @@ In these scripts these are located in "Data/RNA STAR/sub_folders (Human, Rat, Mo
 In these scripts these are located in "Data/Biomart/Gene info"\
 (3) A folder with 4 ortholog matrices from either the human, rat, mouse, and zebrafishs perspective (also generated with https://www.ensembl.org/biomart/martview) \
 In these scripts these are located in "Data/Biomart/Ortholog matrices" \
-(4) Transporter gene lists ((required for 6.1.1) genereated with the Panther database (from https://www.pantherdb.org/)
+(4) Transporter gene lists ((required for 6.1.1) genereated with the Panther database (https://www.pantherdb.org/)
 
 ## The RNAseq Analysis follows these steps:
 ## Raw data analysis - Library Build, Mapping and Quantification ##
