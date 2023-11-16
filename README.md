@@ -13,7 +13,8 @@ In these scripts these are located in "Data/RNA STAR/sub_folders (Human, Rat, Mo
 (2) A folder with 4 biomart gene info files (generated at https://www.ensembl.org/biomart/martview) containing Ensembl IDs and Gene Symbols.\
 In these scripts these are located in "Data/Biomart/Gene info"\
 (3) A folder with 4 ortholog matrices from either the human, rat, mouse, and zebrafishs perspective (also generated with https://www.ensembl.org/biomart/martview) \
-In these scripts these are located in "Data/Biomart/Ortholog matrices"
+In these scripts these are located in "Data/Biomart/Ortholog matrices" \
+(4) Transporter gene lists ((required for 6.1.1) genereated with the Panther database (from https://www.pantherdb.org/)
 
 ## The RNAseq Analysis follows these steps:
 ## Raw data analysis - Library Build, Mapping and Quantification ##
@@ -31,6 +32,7 @@ The analysis uses RNA STAR for mapping and RSEM for TPM quantification.
 ### Generate count tables ###
 1.1.1 Generate count tables from raw data.py
 
+## Ortholog analysis ##
 ### Create ortholog matrix for all species ###
 1.2.1 - Complete Ortholog matrix with all species.py
 
@@ -60,6 +62,7 @@ The analysis uses RNA STAR for mapping and RSEM for TPM quantification.
 5.1.4 - Create orthology matricx for venn plot.py \
 5.1.5 - Venndiagram of orthology study.R
 
+## Transport analysis ##
 ### utializing panther database to collect transporters ###
 6.1.1 Concatenate ensembl and gene lists from panther.py
 
