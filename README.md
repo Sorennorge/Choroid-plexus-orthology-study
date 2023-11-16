@@ -45,55 +45,55 @@ The analysis uses RNA STAR for mapping and RSEM for TPM quantification.
 3.1.2 - Bar plot.py
 
 ### Orthologeus gene analysis between species (single) ##
-4.1.1 - Ortholog matrix for single species with not shared gene lists.py
+4.1.1 - Ortholog matrix for single species with not shared gene lists.py \
 4.1.2 - Ortholog shared in single species.py
 ### Create venn diagrams for orthologeus genes ##
-4.1.3 - Create orthology matricx for venn plot.py
+4.1.3 - Create orthology matricx for venn plot.py \
 4.1.4 - Venndiagram of orthology study.R
 
 ### Orthologeus genes for species - all genes ###
-5.1.1 - Ortholog shared in all species.py
-5.1.2 - Ortholog matrix for single species with not shared gene lists.py
+5.1.1 - Ortholog shared in all species.py \
+5.1.2 - Ortholog matrix for single species with not shared gene lists.py \
 5.1.3 - Ortholog shared in single species.py
 
 ### Create venn diagram (orthologeus genes) for all genes between species ###
-5.1.4 - Create orthology matricx for venn plot.py
+5.1.4 - Create orthology matricx for venn plot.py \
 5.1.5 - Venndiagram of orthology study.R
 
 ### utializing panther database to collect transporters ###
 6.1.1 Concatenate ensembl and gene lists from panther.py
 
 ### Orthologues transporters between species (all genes) ###
-7.1.1 Orthology of transporters in all species.py
-7.1.2 - Ortholog matrix for single species with not shared gene lists.py
+7.1.1 Orthology of transporters in all species.py \
+7.1.2 - Ortholog matrix for single species with not shared gene lists.py \
 7.1.3 - Orthology of transporters shared in single species.py
 
 ### Create venn diagram for transporters ###
-7.1.4 - Create orthology matrix for transporter venn plot.py
+7.1.4 - Create orthology matrix for transporter venn plot.py \
 7.1.5 - Venndiagram of orthology study Transporters.R
 
 ### Transport analysis ###
-8.1.1 - Extract orholog transporters.py
-8.1.2 - Orthology of transporters in species (ortholog genes).py
-8.1.3 - Ortholog matrix for single species with not shared gene lists (ortholog genes).py
+8.1.1 - Extract orholog transporters.py \
+8.1.2 - Orthology of transporters in species (ortholog genes).py \
+8.1.3 - Ortholog matrix for single species with not shared gene lists (ortholog genes).py \
 8.1.4 - Orthology of transporters shared in single species (ortholog genes).py
 
 ### Create venn diagram - transport ###
-8.1.5 - Create orthology matrix for transporter (ortholog genes) venn plot.py
+8.1.5 - Create orthology matrix for transporter (ortholog genes) venn plot.py \
 8.1.6 - Venndiagram of orthology study Transporters (ortholog genes).R
 
 ### Calculate TPM for transport genes ##
 9.1.1 - TPM of shared transporters.py
 
 ### Assign rank to transport genes ##
-9.1.2 - Create Ranked Shared Gene Lists.py
-9.1.3 - Create Ortholog matrix for all shared Transporters.py
-9.2.1 - Create prematrix for ortholog transport.py
+9.1.2 - Create Ranked Shared Gene Lists.py \
+9.1.3 - Create Ortholog matrix for all shared Transporters.py \
+9.2.1 - Create prematrix for ortholog transport.py \
 9.2.2 - Add sum and rank to ortholog transport matrix.py
 
 ### Create heatmap of transport ###
 9.3.1 - Heatmap transporters.py
 
 ### Generate heatmap for transporters of interest (CSF) ###
-10.1.1 - Create matrix for transporters of interest.py
+10.1.1 - Create matrix for transporters of interest.py \
 10.1.2 - Heatmap for transporters of interest.py
