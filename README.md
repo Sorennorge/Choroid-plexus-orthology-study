@@ -95,8 +95,10 @@ The analysis uses RNA STAR for mapping and RSEM for TPM quantification.
 9.2.2 - Add sum and rank to ortholog transport matrix.py
 
 ### Create heatmap of transport ###
-9.3.1 - Heatmap transporters.py
+9.3.1 - Heatmap transporters.py or \
+9.3.2 - Heatmap transporters V2.py
 
 ### Generate heatmap for transporters of interest (CSF) ###
 10.1.1 - Create matrix for transporters of interest.py \
-10.1.2 - Heatmap for transporters of interest.py
+10.1.2 - Heatmap for transporters of interest.py or \
+10.1.3 - Heatmap for transporters of interest V2.py
