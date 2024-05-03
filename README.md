@@ -1,7 +1,7 @@
 # Choroid plexus orthology study
 
 ## Introduction
-The work and scripts are done by the MacAulay Lab in collaboration with the Yaksi Lab. \
+The work and scripts are done by the MacAulay Lab in collaboration with the Jurisch-Yaksi Lab. \
 All programs used are free and open-source. In the interest of open science and reproducibility, all data and source code used in our research is provided here. \
 Feel free to copy and use code, but please cite: \
 https://www.biorxiv.org/content/10.1101/2023.11.03.565468v1 \
